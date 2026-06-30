@@ -1,1 +1,1 @@
-# Predicitive-modeling-materials
+# Predictive-modeling-materials
